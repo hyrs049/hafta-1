@@ -1,4 +1,4 @@
-#Bilgisayar Bilimleri Temelleri Raporu
+### Bilgisayar Bilimleri Temelleri Raporu
 
 ## Giriş
 Bilgisayar bilimleri,modern dünyanın en temel disiplinlerinden biridir.Günlük hayatımızda kullandığımız telefonlardan endüstriyel sistemlere kadar her cihazın arkasında bilgisayar biliminin kavramları yer alır. Bu raporda Bilgisayarın üç temel bileşeni olan **CPU(Merkezi İşem Birimi),RAM(Bellek)** ve **Disk(Depolama)** ayrıntılı olarak incelenecektir.Bu kavramlar, bilgisayarın performansını ve işlevselliğini doğrudan belirleyen unsurlardır.
@@ -29,10 +29,10 @@ RAM, CPU'un işlediği verileri kısa süreliğine sakladığı için bilgisayar
 ## Disk (Depolama)
 Disk, bilgisayarın kalıcı hafızasıdır.
 
-* **Görevleri:**Dosyaları, işletim sistemini ve programlaarı uzun süreli olarak saklar.
+* **Görevleri:** Dosyaları, işletim sistemini ve programlaarı uzun süreli olarak saklar.
 * **Türleri:**
-   - **HDD(Hard Disk Drive):**Mekanik yapıya sahiptir,daha ucuz ama daha yavaştır.
-   - **SSD(Solid State Drive):**Elektronik yapıya sahiptir,çok daha hızlıdır ve modern sistemlerde  tercih edilir.
+   - **HDD(Hard Disk Drive):** Mekanik yapıya sahiptir,daha ucuz ama daha yavaştır.
+   - **SSD(Solid State Drive):** Elektronik yapıya sahiptir,çok daha hızlıdır ve modern sistemlerde  tercih edilir.
 
 Disk kapasitesi gigabayt(GB) veya terabayt(TB) ile ölçülür.Örneğin 512 GB SSD, hem işletim sistemini hem de büyük projeleri rahatça saklamanı sağlar.
 
